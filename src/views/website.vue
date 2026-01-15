@@ -98,9 +98,9 @@
         <div class="footer-content">
           <div class="contact-info">
             <h3>联系我们</h3>
-            <p>电话：400-123-4567</p>
-            <p>邮箱：info@vinum.com</p>
-            <p>地址：上海市静安区南京西路1266号</p>
+            <p>电话：18966700230</p>
+            <p>邮箱：haizhiyi.com</p>
+            <p>地址：陕西省西安市雁塔区</p>
           </div>
           <div class="qrcode">
             <img src="@/../pic/qrcode.jpg" alt="微信公众号二维码">
