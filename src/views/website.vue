@@ -8,7 +8,7 @@
             <a href="#">首页</a>
             <div class="dropdown home-dropdown">
               <div class="dropdown-content">
-                <router-link to="/title/home-one">一</router-link>
+                <router-link to="/title/home-one">介绍</router-link>
                 <div class="dropdown-spacer"></div>
                 <router-link to="/title/home-two">二</router-link>
                 <router-link to="/title/home-three">三</router-link>
@@ -88,9 +88,9 @@
           <p>在HaiZhiYi，我们为您精选来自世界各地的顶级葡萄酒。每一瓶都承载着独特的风土人情，每一口都诉说着不同的故事。让我们共同探索葡萄酒的无限可能，为您的每一个重要时刻增添独特的风味。</p>
         </div>
         <div class="quick-access">
-          <router-link to="/details/one" class="quick-btn">限量配额</router-link>
-          <router-link to="/details/two" class="quick-btn">酒庄直采</router-link>
-          <router-link to="/details/three" class="quick-btn">年份典藏</router-link>
+          <router-link to="/details/one" class="quick-btn">品牌故事</router-link>
+          <router-link to="/details/two" class="quick-btn">产品商城</router-link>
+          <router-link to="/details/three" class="quick-btn">品牌保障</router-link>
         </div>
       </section>
       <!-- Footer Section -->
@@ -98,9 +98,9 @@
         <div class="footer-content">
           <div class="contact-info">
             <h3>联系我们</h3>
-            <p>电话：18966700230</p>
+            <p>电话：13689197363</p>
             <p>邮箱：haizhiyi.com</p>
-            <p>地址：陕西省西安市雁塔区</p>
+            <p>地址：陕西省西安市高新区唐延路25号银河大厦8层8B530</p>
           </div>
           <div class="qrcode">
             <img src="@/../pic/qrcode.jpg" alt="微信公众号二维码">
@@ -109,7 +109,7 @@
           <div class="social-links">
             <h3>关注我们</h3>
             <div class="social-icons">
-              <a href="#" class="social-icon">微信</a>
+              <a href="www.weixingongzhignhao.com" class="social-icon">微信服务号</a>
               <a href="#" class="social-icon">微博</a>
               <a href="#" class="social-icon">小红书</a>
             </div>

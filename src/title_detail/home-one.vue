@@ -1,7 +1,7 @@
 <template>
   <div class="title-detail-page">
     <button class="back-btn" @click="$router.back()">← 返回</button>
-    <h1>首页 - 一</h1>
+    <h1>介绍</h1>
     <div class="content-text">
       奥维特农是国内第一家以帮助葡萄酒企业进行增值化加工技术开发的科技公司。公司可以为企业提供多种葡萄加工新技术，生产葡萄酒或葡萄汁的同时，生产葡萄皮、葡萄籽等多种高值化加工产品。公司也可以帮助中小企业进行资源整合，实现产品优化、产品创新的愿望。
 
